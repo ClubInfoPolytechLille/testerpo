@@ -1,0 +1,17 @@
+changer de branche : git chekout [-b] "nom de branche" 
+-b pour créer une branche
+
+push sur une branche specifique : git push origin "nom de branche"
+
+
+Ordre:
+git pull
+"modif"
+git add "nom des fichiers modifies"
+git commit -> ajouter un titre
+git push
+
+
+
+
+https://git-scm.com/
